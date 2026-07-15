@@ -23,4 +23,3 @@ class Solution:
             temp = temp.next
         prev.next = temp.next
         return head
-        
